@@ -1,0 +1,43 @@
+C:\Users\Josh\Documents\Files\UNBC\2024 Fall\CPSC 300\Assignment 2\Assignment2\bin\Debug\net8.0\Assignment2.exe
+C:\Users\Josh\Documents\Files\UNBC\2024 Fall\CPSC 300\Assignment 2\Assignment2\bin\Debug\net8.0\Assignment2.deps.json
+C:\Users\Josh\Documents\Files\UNBC\2024 Fall\CPSC 300\Assignment 2\Assignment2\bin\Debug\net8.0\Assignment2.runtimeconfig.json
+C:\Users\Josh\Documents\Files\UNBC\2024 Fall\CPSC 300\Assignment 2\Assignment2\bin\Debug\net8.0\Assignment2.dll
+C:\Users\Josh\Documents\Files\UNBC\2024 Fall\CPSC 300\Assignment 2\Assignment2\bin\Debug\net8.0\Assignment2.pdb
+C:\Users\Josh\Documents\Files\UNBC\2024 Fall\CPSC 300\Assignment 2\Assignment2\obj\Debug\net8.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh\Documents\Files\UNBC\2024 Fall\CPSC 300\Assignment 2\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Josh\Documents\Files\UNBC\2024 Fall\CPSC 300\Assignment 2\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfo.vb
+C:\Users\Josh\Documents\Files\UNBC\2024 Fall\CPSC 300\Assignment 2\Assignment2\obj\Debug\net8.0\Assignment2.vbproj.CoreCompileInputs.cache
+C:\Users\Josh\Documents\Files\UNBC\2024 Fall\CPSC 300\Assignment 2\Assignment2\obj\Debug\net8.0\Assignment2.sourcelink.json
+C:\Users\Josh\Documents\Files\UNBC\2024 Fall\CPSC 300\Assignment 2\Assignment2\obj\Debug\net8.0\Assignment2.dll
+C:\Users\Josh\Documents\Files\UNBC\2024 Fall\CPSC 300\Assignment 2\Assignment2\obj\Debug\net8.0\refint\Assignment2.dll
+C:\Users\Josh\Documents\Files\UNBC\2024 Fall\CPSC 300\Assignment 2\Assignment2\obj\Debug\net8.0\Assignment2.pdb
+C:\Users\Josh\Documents\Files\UNBC\2024 Fall\CPSC 300\Assignment 2\Assignment2\obj\Debug\net8.0\Assignment2.genruntimeconfig.cache
+C:\Users\Josh\Documents\Files\UNBC\2024 Fall\CPSC 300\Assignment 2\Assignment2\obj\Debug\net8.0\ref\Assignment2.dll
+D:\CSPC 300 Computer Programming\Assignment 2 (Backend Copy)\Assignment 2 (Backend Copy)\bin\Debug\net8.0\Assignment2.exe
+D:\CSPC 300 Computer Programming\Assignment 2 (Backend Copy)\Assignment 2 (Backend Copy)\bin\Debug\net8.0\Assignment2.deps.json
+D:\CSPC 300 Computer Programming\Assignment 2 (Backend Copy)\Assignment 2 (Backend Copy)\bin\Debug\net8.0\Assignment2.runtimeconfig.json
+D:\CSPC 300 Computer Programming\Assignment 2 (Backend Copy)\Assignment 2 (Backend Copy)\bin\Debug\net8.0\Assignment2.dll
+D:\CSPC 300 Computer Programming\Assignment 2 (Backend Copy)\Assignment 2 (Backend Copy)\bin\Debug\net8.0\Assignment2.pdb
+D:\CSPC 300 Computer Programming\Assignment 2 (Backend Copy)\Assignment 2 (Backend Copy)\obj\Debug\net8.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSPC 300 Computer Programming\Assignment 2 (Backend Copy)\Assignment 2 (Backend Copy)\obj\Debug\net8.0\Assignment2.AssemblyInfoInputs.cache
+D:\CSPC 300 Computer Programming\Assignment 2 (Backend Copy)\Assignment 2 (Backend Copy)\obj\Debug\net8.0\Assignment2.AssemblyInfo.vb
+D:\CSPC 300 Computer Programming\Assignment 2 (Backend Copy)\Assignment 2 (Backend Copy)\obj\Debug\net8.0\Assignment2.vbproj.CoreCompileInputs.cache
+D:\CSPC 300 Computer Programming\Assignment 2 (Backend Copy)\Assignment 2 (Backend Copy)\obj\Debug\net8.0\Assignment2.dll
+D:\CSPC 300 Computer Programming\Assignment 2 (Backend Copy)\Assignment 2 (Backend Copy)\obj\Debug\net8.0\refint\Assignment2.dll
+D:\CSPC 300 Computer Programming\Assignment 2 (Backend Copy)\Assignment 2 (Backend Copy)\obj\Debug\net8.0\Assignment2.pdb
+D:\CSPC 300 Computer Programming\Assignment 2 (Backend Copy)\Assignment 2 (Backend Copy)\obj\Debug\net8.0\Assignment2.genruntimeconfig.cache
+D:\CSPC 300 Computer Programming\Assignment 2 (Backend Copy)\Assignment 2 (Backend Copy)\obj\Debug\net8.0\ref\Assignment2.dll
+C:\Users\Joshua\Documents\Assignment_2[1]\bin\Debug\net8.0\Assignment2.exe
+C:\Users\Joshua\Documents\Assignment_2[1]\bin\Debug\net8.0\Assignment2.deps.json
+C:\Users\Joshua\Documents\Assignment_2[1]\bin\Debug\net8.0\Assignment2.runtimeconfig.json
+C:\Users\Joshua\Documents\Assignment_2[1]\bin\Debug\net8.0\Assignment2.dll
+C:\Users\Joshua\Documents\Assignment_2[1]\bin\Debug\net8.0\Assignment2.pdb
+C:\Users\Joshua\Documents\Assignment_2[1]\obj\Debug\net8.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua\Documents\Assignment_2[1]\obj\Debug\net8.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Joshua\Documents\Assignment_2[1]\obj\Debug\net8.0\Assignment2.AssemblyInfo.vb
+C:\Users\Joshua\Documents\Assignment_2[1]\obj\Debug\net8.0\Assignment2.vbproj.CoreCompileInputs.cache
+C:\Users\Joshua\Documents\Assignment_2[1]\obj\Debug\net8.0\Assignment2.dll
+C:\Users\Joshua\Documents\Assignment_2[1]\obj\Debug\net8.0\refint\Assignment2.dll
+C:\Users\Joshua\Documents\Assignment_2[1]\obj\Debug\net8.0\Assignment2.pdb
+C:\Users\Joshua\Documents\Assignment_2[1]\obj\Debug\net8.0\Assignment2.genruntimeconfig.cache
+C:\Users\Joshua\Documents\Assignment_2[1]\obj\Debug\net8.0\ref\Assignment2.dll
